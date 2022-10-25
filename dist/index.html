@@ -4,26 +4,20 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="/index.34df27b5.css">
+    <link rel="stylesheet" href="./css/main.css">
     <title>Import models from Sketchfab.com</title>
-    <style>canvas {
-  margin: 0;
-}
-
-</style>
+    <style>
+        canvas {
+            margin: 0
+        }
+    </style>
 </head>
 <body>
-    <div class="progress-bar-container">
-        <label for="progress-bar">Loading...</label>
-        <progress id="progress-bar" value="0" max="100"></progress>
-    </div>
+    <!-- These toggle the the different parts of the chair that can be edited, note data-option is the key that links to the name of the part in the 3D file -->
 
     <div class="options">
         <div class="option" data-option="legs">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Video_camera_icon.svg/1200px-Video_camera_icon.svg.png" alt="">
-        </div>
-        <div class="door" data-option="legs">
-            <img src="https://static.thenounproject.com/png/165236-200.png" alt="">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Video_camera_icon.svg/1200px-Video_camera_icon.svg.png" alt=""/>
         </div>
     </div>
     <!--  
@@ -53,6 +47,6 @@
             <div id="js-tray-slide" class="tray__slide"></div>
         </div>
     </div>
-    <script src="/index.e82f28a0.js" defer=""></script>
+    <script src="./script.js" type="module"></script>
 </body>
 </html>
