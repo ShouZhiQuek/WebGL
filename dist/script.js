@@ -1,8 +1,8 @@
-import * as THREE from 'https://unpkg.com/three@0.138.0/build/three.module.js';
-import {OrbitControls} from 'https://unpkg.com/three@0.138.0/examples/jsm/controls/OrbitControls.js';
-import {GroundProjectedEnv} from 'three/examples/jsm/objects/GroundProjectedEnv.js'
-import {GLTFLoader} from 'three/examples/jsm/loaders/GLTFLoader.js';
-import {RGBELoader} from 'three/examples/jsm/loaders/RGBELoader.js';
+import * as THREE from '../node_modules/three/build/three.module.js';
+// import {OrbitControls} from 'three/examples/jsm/controls/OrbitControls.js';
+// import {GroundProjectedEnv} from 'three/examples/jsm/objects/GroundProjectedEnv.js'
+// import {GLTFLoader} from 'three/examples/jsm/loaders/GLTFLoader.js';
+// import {RGBELoader} from 'three/examples/jsm/loaders/RGBELoader.js';
 
 //Camera rotation toggle button
 const options = document.querySelector(".option");
