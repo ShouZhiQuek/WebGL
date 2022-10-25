@@ -1,5 +1,5 @@
 import * as THREE from 'three';
-import {OrbitControls} from 'OrbitControls';
+import {OrbitControls} from 'three/examples/jsm/controls/OrbitControls.js';
 import {GroundProjectedEnv} from 'three/examples/jsm/objects/GroundProjectedEnv.js'
 import {GLTFLoader} from 'three/examples/jsm/loaders/GLTFLoader.js';
 import {RGBELoader} from 'three/examples/jsm/loaders/RGBELoader.js';
