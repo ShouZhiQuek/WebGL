@@ -13,11 +13,17 @@
     </style>
 </head>
 <body>
-    <!-- These toggle the the different parts of the chair that can be edited, note data-option is the key that links to the name of the part in the 3D file -->
+    <div class="progress-bar-container">
+        <label for="progress-bar">Loading...</label>
+        <progress id="progress-bar" value="0" max="100"></progress>
+    </div>
 
     <div class="options">
         <div class="option" data-option="legs">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Video_camera_icon.svg/1200px-Video_camera_icon.svg.png" alt=""/>
+        </div>
+        <div class="door" data-option="legs">
+            <img src="https://static.thenounproject.com/png/165236-200.png" alt=""/>
         </div>
     </div>
     <!--  
@@ -47,7 +53,7 @@
             <div id="js-tray-slide" class="tray__slide"></div>
         </div>
     </div>
-    <script src="./three.js"></script>
+    <script src="./three.js" ></script>
     <script src="./script.js" type="module"></script>
 </body>
 </html>

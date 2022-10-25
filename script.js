@@ -1,6 +1,6 @@
-import {OrbitControls} from '/node_module/three/examples/jsm/controls/OrbitControls.js';
-import {GroundProjectedEnv} from '/node_module/examples/jsm/objects/GroundProjectedEnv.js'
-import {GLTFLoader} from '/node_module/examples/jsm/loaders/GLTFLoader.js';
+import {OrbitControls} from './node_module/three/examples/jsm/controls/OrbitControls.js';
+import {GroundProjectedEnv} from './node_module/examples/jsm/objects/GroundProjectedEnv.js'
+import {GLTFLoader} from '.node_module/examples/jsm/loaders/GLTFLoader.js';
 import {RGBELoader} from './node_module/examples/jsm/loaders/RGBELoader.js';
 
 //Camera rotation toggle button
