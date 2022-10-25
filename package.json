@@ -1,0 +1,31 @@
+{
+  "name": "webgl-car",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dat.gui": "^0.7.9",
+    "gh-pages": "^4.0.0",
+    "three": "^0.145.0"
+  },
+  "devDependencies": {
+    "@parcel/config-default": "^2.7.0",
+    "parcel-reporter-static-files-copy": "^1.4.0"
+  },
+  "staticFiles": {
+    "staticOutPath": "assets"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuekShouZhi/Car-WebGl-Sample.git"
+  },
+  "bugs": {
+    "url": "https://github.com/QuekShouZhi/Car-WebGl-Sample/issues"
+  },
+  "homepage": "https://github.com/QuekShouZhi/Car-WebGl-Sample#readme",
+  "description": ""
+}
