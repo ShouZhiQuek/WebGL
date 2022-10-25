@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/ShouZhiQuek/WebGL#readme",
   "dependencies": {
-    "gh-pages": "^4.0.0"
+    "gh-pages": "^4.0.0",
+    "three": "^0.145.0"
   }
 }
