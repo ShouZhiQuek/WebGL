@@ -17200,187 +17200,187 @@
         {
             "mimeType" : "image/png",
             "name" : "Plastic25_normal",
-            "uri" : "Textures/Plastic25_normal.png"
+            "uri" : "Texture/Plastic25_normal.png"
         },
         {
             "mimeType" : "image/png",
             "name" : "Plastic45_metallicRoughness",
-            "uri" : "Textures/Plastic45_metallicRoughness.png"
+            "uri" : "Texture/Plastic45_metallicRoughness.png"
         },
         {
             "mimeType" : "image/png",
             "name" : "InteriorFloor_normal",
-            "uri" : "Textures/InteriorFloor_normal.png"
+            "uri" : "Texture/InteriorFloor_normal.png"
         },
         {
             "mimeType" : "image/png",
             "name" : "InteriorFloor_metallicRoughness",
-            "uri" : "Textures/InteriorFloor_metallicRoughness.png"
+            "uri" : "Texture/InteriorFloor_metallicRoughness.png"
         },
         {
             "mimeType" : "image/png",
             "name" : "InteriorFloor_baseColor",
-            "uri" : "Textures/InteriorFloor_baseColor.png"
+            "uri" : "Texture/InteriorFloor_baseColor.png"
         },
         {
             "mimeType" : "image/png",
             "name" : "Plastic45_normal",
-            "uri" : "Textures/Plastic45_normal.png"
+            "uri" : "Texture/Plastic45_normal.png"
         },
         {
             "mimeType" : "image/png",
             "name" : "RoofCloth_normal",
-            "uri" : "Textures/RoofCloth_normal.png"
+            "uri" : "Texture/RoofCloth_normal.png"
         },
         {
             "mimeType" : "image/png",
             "name" : "RoofCloth_baseColor",
-            "uri" : "Textures/RoofCloth_baseColor.png"
+            "uri" : "Texture/RoofCloth_baseColor.png"
         },
         {
             "mimeType" : "image/png",
             "name" : "RoofCloth_metallicRoughness",
-            "uri" : "Textures/RoofCloth_metallicRoughness.png"
+            "uri" : "Texture/RoofCloth_metallicRoughness.png"
         },
         {
             "mimeType" : "image/png",
             "name" : "WhiteClothCouches_normal",
-            "uri" : "Textures/WhiteClothCouches_normal.png"
+            "uri" : "Texture/WhiteClothCouches_normal.png"
         },
         {
             "mimeType" : "image/png",
             "name" : "GrayClothCouches_baseColor",
-            "uri" : "Textures/GrayClothCouches_baseColor.png"
+            "uri" : "Texture/GrayClothCouches_baseColor.png"
         },
         {
             "mimeType" : "image/png",
             "name" : "WhiteClothCouches_metallicRoughness",
-            "uri" : "Textures/WhiteClothCouches_metallicRoughness.png"
+            "uri" : "Texture/WhiteClothCouches_metallicRoughness.png"
         },
         {
             "mimeType" : "image/png",
             "name" : "WhiteClothCouches_baseColor",
-            "uri" : "Textures/WhiteClothCouches_baseColor.png"
+            "uri" : "Texture/WhiteClothCouches_baseColor.png"
         },
         {
             "mimeType" : "image/png",
             "name" : "Sews_normal",
-            "uri" : "Textures/Sews_normal.png"
+            "uri" : "Texture/Sews_normal.png"
         },
         {
             "mimeType" : "image/png",
             "name" : "Sews_baseColor",
-            "uri" : "Textures/Sews_baseColor.png"
+            "uri" : "Texture/Sews_baseColor.png"
         },
         {
             "mimeType" : "image/png",
             "name" : "SteeringWheel_normal",
-            "uri" : "Textures/SteeringWheel_normal.png"
+            "uri" : "Texture/SteeringWheel_normal.png"
         },
         {
             "mimeType" : "image/png",
             "name" : "SteeringWheel_baseColor",
-            "uri" : "Textures/SteeringWheel_baseColor.png"
+            "uri" : "Texture/SteeringWheel_baseColor.png"
         },
         {
             "mimeType" : "image/png",
             "name" : "SteeringWheel_metallicRoughness",
-            "uri" : "Textures/SteeringWheel_metallicRoughness.png"
+            "uri" : "Texture/SteeringWheel_metallicRoughness.png"
         },
         {
             "mimeType" : "image/png",
             "name" : "Buttons-Detailtext_emissive",
-            "uri" : "Textures/Buttons-Detailtext_emissive.png"
+            "uri" : "Texture/Buttons-Detailtext_emissive.png"
         },
         {
             "mimeType" : "image/png",
             "name" : "Buttons-Detailtext_normal",
-            "uri" : "Textures/Buttons-Detailtext_normal.png"
+            "uri" : "Texture/Buttons-Detailtext_normal.png"
         },
         {
             "mimeType" : "image/png",
             "name" : "Buttons-Detailtext_baseColor",
-            "uri" : "Textures/Buttons-Detailtext_baseColor.png"
+            "uri" : "Texture/Buttons-Detailtext_baseColor.png"
         },
         {
             "mimeType" : "image/png",
             "name" : "Buttons-Detailtext_metallicRoughness",
-            "uri" : "Textures/Buttons-Detailtext_metallicRoughness.png"
+            "uri" : "Texture/Buttons-Detailtext_metallicRoughness.png"
         },
         {
             "mimeType" : "image/png",
             "name" : "Plastic25_metallicRoughness",
-            "uri" : "Textures/Plastic25_metallicRoughness.png"
+            "uri" : "Texture/Plastic25_metallicRoughness.png"
         },
         {
             "mimeType" : "image/png",
             "name" : "RetroGlass_normal",
-            "uri" : "Textures/RetroGlass_normal.png"
+            "uri" : "Texture/RetroGlass_normal.png"
         },
         {
             "mimeType" : "image/png",
             "name" : "SpeakerRack_normal",
-            "uri" : "Textures/SpeakerRack_normal.png"
+            "uri" : "Texture/SpeakerRack_normal.png"
         },
         {
             "mimeType" : "image/png",
             "name" : "SpeakerRack_baseColor",
-            "uri" : "Textures/SpeakerRack_baseColor.png"
+            "uri" : "Texture/SpeakerRack_baseColor.png"
         },
         {
             "mimeType" : "image/png",
             "name" : "SeatBelt_baseColor",
-            "uri" : "Textures/SeatBelt_baseColor.png"
+            "uri" : "Texture/SeatBelt_baseColor.png"
         },
         {
             "mimeType" : "image/jpeg",
             "name" : "InteriorWood_normal",
-            "uri" : "Textures/InteriorWood_normal.jpg"
+            "uri" : "Texture/InteriorWood_normal.jpg"
         },
         {
             "mimeType" : "image/jpeg",
             "name" : "InteriorWood_baseColor",
-            "uri" : "Textures/InteriorWood_baseColor.jpg"
+            "uri" : "Texture/InteriorWood_baseColor.jpg"
         },
         {
             "mimeType" : "image/png",
             "name" : "InteriorWood_metallicRoughness",
-            "uri" : "Textures/InteriorWood_metallicRoughness.png"
+            "uri" : "Texture/InteriorWood_metallicRoughness.png"
         },
         {
             "mimeType" : "image/png",
             "name" : "ChromedReflectors_normal",
-            "uri" : "Textures/ChromedReflectors_normal.png"
+            "uri" : "Texture/ChromedReflectors_normal.png"
         },
         {
             "mimeType" : "image/png",
             "name" : "Pneumatic_normal",
-            "uri" : "Textures/Pneumatic_normal.png"
+            "uri" : "Texture/Pneumatic_normal.png"
         },
         {
             "mimeType" : "image/png",
             "name" : "Pneumatic_baseColor",
-            "uri" : "Textures/Pneumatic_baseColor.png"
+            "uri" : "Texture/Pneumatic_baseColor.png"
         },
         {
             "mimeType" : "image/png",
             "name" : "Pneumatic_metallicRoughness",
-            "uri" : "Textures/Pneumatic_metallicRoughness.png"
+            "uri" : "Texture/Pneumatic_metallicRoughness.png"
         },
         {
             "mimeType" : "image/png",
             "name" : "Matricula_baseColor",
-            "uri" : "Textures/Matricula_baseColor.png"
+            "uri" : "Texture/Matricula_baseColor.png"
         },
         {
             "mimeType" : "image/png",
             "name" : "ScreenTexture_baseColor",
-            "uri" : "Textures/ScreenTexture_baseColor.png"
+            "uri" : "Texture/ScreenTexture_baseColor.png"
         },
         {
             "mimeType" : "image/png",
             "name" : "BackRedReflectors_normal",
-            "uri" : "Textures/BackRedReflectors_normal.png"
+            "uri" : "Texture/BackRedReflectors_normal.png"
         }
     ],
     "accessors" : [

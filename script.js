@@ -217,14 +217,14 @@ rgbeLoader.load(BACKROUND_PATH.href, function(texture) {
 });
 
 //const MODEL_PATH =  new URL("https://s3-us-west-2.amazonaws.com/s.cdpn.io/1376484/chair.glb", import.meta.url);
-const CAR_PATH = new URL('./Models/Car.gltf', import.meta.url);
+//const CAR_PATH = new URL('./Models/Car.glb', import.meta.url);
 
 var model;
 let mixer;
 var action
 var clips
 //Load model
-gltfLoader.load(CAR_PATH.href, function(gltf) {
+gltfLoader.load('./Models/Car.gltf', function(gltf) {
     model = gltf.scene;
     model.traverse((o) => {
         if(o.isMesh) {
